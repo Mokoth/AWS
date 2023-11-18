@@ -10,7 +10,6 @@
 - 	Compare and contrast AWS cloud services to On-Premises infrastructure.
 - 	Implement hosting a static web page using Amazon S3
 
-
 Practice Lab Goals
 - Create an AS3
 - Enable static web hosting
@@ -53,6 +52,19 @@ Learning Objectives:
 - Describe the benefits of using Amazon VPCs
 - State the basics of CIDR block notation and IP addressing.
 - Explain how VPC traffic is routed and secured using gateways, network access control lists, and security groups.
+
+Practice Lab Goals
+- Explore the components that comprise a VPC
+ - VPC 10.10.0.0/16
+ - Public subnet 10.10.0.0/24 - Webserver - HTTP:80:Allow
+ - Private subnet 10.10.2.0/24 - DB Server - TCP:3306:Allow
+ - Internet -> Internet gateway -> Router
+- Configure a route table attached to a subnet within a VPC
+- Configure an internet gateway inside a VPC
+- Configure inbound rules within a security group to control access.
+- 
+- Configure a routing table and attach an internet gateway
+- Configure a security group
 
 Project 5: Databases in Practice
 
