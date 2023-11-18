@@ -11,9 +11,11 @@
 - 	Implement hosting a static web page using Amazon S3
 
 Practice Lab Goals
-- Create an AS3
-- Enable static web hosting
-- Secure the S3 bucket by using a bucket policy
+- Explore Amazon EC2 instance types
+- Filter EC2 instances based on their attributes.
+- Connect to an EC2 instance using Amazon EC2 Connect
+- View instance metadata using the instance public IP address
+- Start and stop EC2 instance by using Amazon EC2 console
 
 
 Project 2 - Cloud First Steps
@@ -35,6 +37,11 @@ Learning Objectives:
 - Describe Amazon EC2 instance families and instance types.
 - Describe horizontal and vertical scaling.
 - Recognize options for connecting to Amazon EC2 instances.
+
+Practice Lab Goals
+- Create an AS3
+- Enable static web hosting
+- Secure the S3 bucket by using a bucket policy
 
 Project 4 - Networking Concepts
 
