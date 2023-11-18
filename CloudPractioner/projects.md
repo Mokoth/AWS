@@ -55,10 +55,10 @@ Learning Objectives:
 
 Practice Lab Goals
 - Explore the components that comprise a VPC
- - VPC 10.10.0.0/16
- - Public subnet 10.10.0.0/24 - Webserver - HTTP:80:Allow
- - Private subnet 10.10.2.0/24 - DB Server - TCP:3306:Allow
- - Internet -> Internet gateway -> Router
+ 	- VPC 10.10.0.0/16
+ 	- Public subnet 10.10.0.0/24 - Webserver - HTTP:80:Allow
+ 	- Private subnet 10.10.2.0/24 - DB Server - TCP:3306:Allow
+ 	- Internet -> Internet gateway -> Router
 - Configure a route table attached to a subnet within a VPC
 - Configure an internet gateway inside a VPC
 - Configure inbound rules within a security group to control access.
