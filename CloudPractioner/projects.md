@@ -10,13 +10,11 @@
 - 	Compare and contrast AWS cloud services to On-Premises infrastructure.
 - 	Implement hosting a static web page using Amazon S3
 
-Practice Lab Goals
-- Explore Amazon EC2 instance types
-- Filter EC2 instances based on their attributes.
-- Connect to an EC2 instance using Amazon EC2 Connect
-- View instance metadata using the instance public IP address
-- Start and stop EC2 instance by using Amazon EC2 console
 
+Practice Lab Goals
+- Create an AS3
+- Enable static web hosting
+- Secure the S3 bucket by using a bucket policy
 
 Project 2 - Cloud First Steps
 
@@ -39,9 +37,11 @@ Learning Objectives:
 - Recognize options for connecting to Amazon EC2 instances.
 
 Practice Lab Goals
-- Create an AS3
-- Enable static web hosting
-- Secure the S3 bucket by using a bucket policy
+- Explore Amazon EC2 instance types
+- Filter EC2 instances based on their attributes.
+- Connect to an EC2 instance using Amazon EC2 Connect
+- View instance metadata using the instance public IP address
+- Start and stop EC2 instance by using Amazon EC2 console
 
 Project 4 - Networking Concepts
 
